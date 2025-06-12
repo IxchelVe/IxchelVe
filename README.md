@@ -23,19 +23,27 @@ Además, disfruto mucho combinar lo técnico con lo estético. Me gustan los ret
 
 ---
 
-<!--## 🧰 Tecnologías & Herramientas-->
+## 🧰 Tecnologías & Herramientas
 
-**Lenguajes & Datos**  
-<img src="https://skillicons.dev/icons?i=python,java,r,sql" />
+**Lenguajes de programación**  
+<img src="https://skillicons.dev/icons?i=python,java,js,cs" />  
+🛠️ PowerBuilder (sin ícono en Skillicons)
 
-**Frontend & Diseño**  
-<img src="https://skillicons.dev/icons?i=html,css,figma" />
+**Análisis de datos & Bases de datos**  
+<img src="https://skillicons.dev/icons?i=sql,postgres" />  
+📊 Excel, Power BI
 
-**Herramientas & Sistemas**  
-<img src="https://skillicons.dev/icons?i=raspberrypi,linux,git,github,vscode" />
+**Frameworks & Librerías**  
+<img src="https://skillicons.dev/icons?i=django" />
+
+**Desarrollo web & CMS**  
+<img src="https://skillicons.dev/icons?i=html,css" />  
+🌐 WordPress, Wix, GoDaddy (no tienen ícono en Skillicons)
+
+**Sistemas operativos & herramientas**  
+<img src="https://skillicons.dev/icons?i=raspberrypi,linux,git,github,vscode,figma" />
 
 
----
 
 ---
 ## 📌 Proyectos destacados
