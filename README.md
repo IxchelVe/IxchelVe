@@ -29,18 +29,6 @@ Además, disfruto mucho combinar lo técnico con lo estético. Me gustan los ret
 
 ---
 
-## 🛠️ En lo que estoy trabajando
-
-- 🧪 **Proyecto de análisis de datos** usando Python, SQL, Excel y Power BI para mi portafolio como analista junior.
-- 🎮 **Experiencias interactivas** con cámara + OpenCV, donde las personas lanzan pelotas y se detectan los impactos en pantalla.
-- 💻 Preparación para entrevistas técnicas para roles de **desarrolladora Java Jr.** y analista de datos remoto.
-- 📦 Diseño y lanzamiento de un emprendimiento de **desayunos sorpresa con flores tejidas**, desde branding hasta gestión de pedidos.
-- ✏️ Desarrollo de cuadernillos visuales para secundaria bajo la marca **Cheatix**, con funciones matemáticas y diseño llamativo para KDP.
-- 🌱 Automatización de tareas y visualización de datos para eventos (como carreras o activaciones en agencias de autos).
-- 🎨 **Creación de filtros para Instagram y TikTok** usando Spark AR y Effect House, combinando diseño, programación y creatividad visual.
-- 🌐 Desarrollo de un portafolio web que combine mis proyectos creativos, técnicos y de emprendimiento.
-
-
 ---
 ## 📌 Proyectos destacados
 
@@ -51,7 +39,8 @@ Desarrollado con **Raspberry Pi** y **Python** para una activación de marca.
 [Ver resumen del proyecto](#)
 
 🖼️ **Generador de numeración para rifa con Python**  
-Script que automatiza la creación de 10,000 imágenes con numeración sobre una base `.jpg`, para boletos masivos. 
+Script que automatiza la creación de 10,000 imágenes con numeración sobre una base `.jpg`, para boletos masivos.
+
 [Ver repositorio](#)
 
 
@@ -68,9 +57,9 @@ Interfaz conectada a un volante físico en activaciones para Hyundai. Configurac
 [Ver repositorio](#)-->
 
 
-🎮 **Pantalla interactiva con OpenCV + cámara**  
+<!--🎮 **Pantalla interactiva con OpenCV + cámara**  
 Sistema que detecta impactos en pantalla con una pelota real, usando visión por computadora y animaciones en pantalla.  
-[Ver repositorio](#)
+[Ver repositorio](#)-->
 
 <!--📊 **Dashboard de precios de productos en Power BI**  
 Tablero interactivo para visualizar precios por categoría, tienda y fecha.  
@@ -94,7 +83,16 @@ Proyectos para marcas: cabinas de aire, simuladores, experiencias con sensores y
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12179953908&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
+## 🛠️ En lo que estoy trabajando
 
+- 🧪 **Proyecto de análisis de datos** usando Python, SQL, Excel y Power BI para mi portafolio como analista junior.
+- 🎮 **Experiencias interactivas** con cámara + OpenCV, donde las personas lanzan pelotas y se detectan los impactos en pantalla.
+- 💻 Preparación para entrevistas técnicas para roles de **desarrolladora Java Jr.** y analista de datos remoto.
+- 📦 Diseño y lanzamiento de un emprendimiento de **desayunos sorpresa con flores tejidas**, desde branding hasta gestión de pedidos.
+- ✏️ Desarrollo de cuadernillos visuales para secundaria bajo la marca **Cheatix**, con funciones matemáticas y diseño llamativo para KDP.
+- 🌱 Automatización de tareas y visualización de datos para eventos (como carreras o activaciones en agencias de autos).
+- 🎨 **Creación de filtros para Instagram y TikTok** usando Spark AR y Effect House, combinando diseño, programación y creatividad visual.
+- 🌐 Desarrollo de un portafolio web que combine mis proyectos creativos, técnicos y de emprendimiento.
 
 ---
 
