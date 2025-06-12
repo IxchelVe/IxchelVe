@@ -25,7 +25,7 @@ Además, disfruto mucho combinar lo técnico con lo estético. Me gustan los ret
 
 ## 🧰 Tecnologías & Herramientas
 
-<img src="https://skillicons.dev/icons?i=python,raspberrypi,linux,git,github,vscode,figma,pandas,numpy,sql,html,css" />
+<img src="https://skillicons.dev/icons?i=python,raspberrypi,linux,git,github,vscode,figma,pandas,numpy,sql,html,css,java,r" />
 
 ---
 
