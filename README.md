@@ -30,7 +30,7 @@ Además, disfruto mucho combinar lo técnico con lo estético. Me gustan los ret
 🛠️ PowerBuilder <!--(sin ícono en Skillicons)-->
 
 **Análisis de datos & Bases de datos**  
-<img src="https://skillicons.dev/icons?i=sql,postgres" />  
+<img src="https://skillicons.dev/icons?i=postgres" />  
 📊 Excel
 
 **Frameworks & Librerías**  
