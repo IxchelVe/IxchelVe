@@ -64,13 +64,13 @@ Filtros de RA hechos con Spark AR y Effect House, con animaciones y lógica de i
 Tablero interactivo para visualizar precios por categoría, tienda y fecha.  
 [Ver demo](#)
 
-📚 **Cheatix: Cuadernillos visuales para secundaria**  
+<!--📚 **Cheatix: Cuadernillos visuales para secundaria**  
 Diseño y maquetación de material didáctico para funciones matemáticas. Publicado en Amazon KDP.  
-[Ver proyecto](#)
+[Ver proyecto](#)-->
 
-🧵 **E-commerce artesanal con Wix**  
+<!-- Esto es un comentario en Markdown 🧵 **E-commerce artesanal con Wix**  
 Desarrollo de sitio y sistema de pedidos para negocio de desayunos sorpresa + flores tejidas.  
-[Ver sitio web](#)
+[Ver sitio web](#)--> 
 
 🎆 **Activaciones con tecnología interactiva**  
 Proyectos para marcas: cabinas de aire, simuladores, experiencias con sensores y pantallas personalizadas.  
