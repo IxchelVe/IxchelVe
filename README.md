@@ -44,30 +44,38 @@ Además, disfruto mucho combinar lo técnico con lo estético. Me gustan los ret
 ---
 ## 📌 Proyectos destacados
 
-🧠 **Análisis de Datos con Python**  
-Exploración de datos públicos (ej. INEGI, Kaggle) usando Pandas y visualizaciones en Matplotlib y Seaborn.  
+
+🎆 **Proyecto Disney: Intensamente - Furia (2024)**  
+Experiencia interactiva basada en sensores que medían "el nivel de furia" de un golpe, inspirada en la película *Intensamente*.  
+Desarrollado con **Raspberry Pi** y **Python** para una activación de marca.  
+[Ver resumen del proyecto](#)
+
+🖼️ **Generador de numeración para rifa con Python**  
+Script que automatiza la creación de 10,000 imágenes con numeración sobre una base `.jpg`, para boletos masivos. 
 [Ver repositorio](#)
 
-🎮 **Pantalla interactiva con OpenCV + cámara**  
-Sistema que detecta impactos en pantalla con una pelota real, usando visión por computadora y animaciones en pantalla.  
-[Ver repositorio](#)
-
-🚘 **Simulador de carreras F1 para showroom**  
-Interfaz conectada a un volante físico en activaciones para Hyundai. Configuración de software + hardware.  
-[Ver repositorio](#)
 
 ✨ **Filtros para Instagram y TikTok**  
 Filtros de RA hechos con Spark AR y Effect House, con animaciones y lógica de interacción.  
 [Ver filtros](#)
 
-📊 **Dashboard de precios de productos en Power BI**  
-Tablero interactivo para visualizar precios por categoría, tienda y fecha.  
-[Ver demo](#)
+<!--🧠 **Análisis de Datos con Python**  
+Exploración de datos públicos (ej. INEGI, Kaggle) usando Pandas y visualizaciones en Matplotlib y Seaborn.  
+[Ver repositorio](#)-->
 
-🎆 **Proyecto Disney: Intensamente - Furia (2024)**  
-Experiencia interactiva basada en sensores que medían "el nivel de furia" de un golpe para activar diferentes videos de emociones, inspirada en la película *Intensamente*.  
-Desarrollado con **Raspberry Pi**, **Raspbian** y hardware personalizado para una activación de marca.  
-[Ver resumen del proyecto](#)
+<!--🚘 **Simulador de carreras F1 para showroom**  
+Interfaz conectada a un volante físico en activaciones para Hyundai. Configuración de software + hardware.  
+[Ver repositorio](#)-->
+
+
+🎮 **Pantalla interactiva con OpenCV + cámara**  
+Sistema que detecta impactos en pantalla con una pelota real, usando visión por computadora y animaciones en pantalla.  
+[Ver repositorio](#)
+
+<!--📊 **Dashboard de precios de productos en Power BI**  
+Tablero interactivo para visualizar precios por categoría, tienda y fecha.  
+[Ver demo](#)-->
+
 
 
 <!--📚 **Cheatix: Cuadernillos visuales para secundaria**  
@@ -78,9 +86,9 @@ Diseño y maquetación de material didáctico para funciones matemáticas. Publi
 Desarrollo de sitio y sistema de pedidos para negocio de desayunos sorpresa + flores tejidas.  
 [Ver sitio web](#)--> 
 
-🎆 **Activaciones con tecnología interactiva**  
+<!--🎆 **Activaciones con tecnología interactiva**  
 Proyectos para marcas: cabinas de aire, simuladores, experiencias con sensores y pantallas personalizadas.  
-[Resumen de proyectos](#)
+[Resumen de proyectos](#)-->
 
 ### 🎧 Escuchando ahora en Spotify
 
