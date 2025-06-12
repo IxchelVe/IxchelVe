@@ -120,6 +120,13 @@ Proyectos para marcas: cabinas de aire, simuladores, experiencias con sensores y
 - 🇯🇵 Sueño con viajar a Japón (¡ya está en mis metas 2025!)
 
 ---
+### 🌍 Idiomas
+
+- 🇲🇽 **Español** — Nativo  
+- 🇺🇸 **Inglés** — Intermedio  
+- 🇯🇵 **Japonés** — Básico  
+- 🇫🇷 **Francés** — Básico
+---
 
 ## 📫 Cómo contactarme
 
