@@ -64,6 +64,12 @@ Filtros de RA hechos con Spark AR y Effect House, con animaciones y lógica de i
 Tablero interactivo para visualizar precios por categoría, tienda y fecha.  
 [Ver demo](#)
 
+🎆 **Proyecto Disney: Intensamente - Furia (2024)**  
+Experiencia interactiva basada en sensores que medían "el nivel de furia" de un golpe para activar diferentes videos de emociones, inspirada en la película *Intensamente*.  
+Desarrollado con **Raspberry Pi**, **Raspbian** y hardware personalizado para una activación de marca.  
+[Ver resumen del proyecto](#)
+
+
 <!--📚 **Cheatix: Cuadernillos visuales para secundaria**  
 Diseño y maquetación de material didáctico para funciones matemáticas. Publicado en Amazon KDP.  
 [Ver proyecto](#)-->
