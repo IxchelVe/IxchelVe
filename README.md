@@ -1,16 +1,105 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Ixchel Velázquez 👋</h1>
 
-<!--
-**IxchelVe/IxchelVe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  👩‍💻 Estudiante de Ciencias de la Computación | 🌎 Apasionada por el análisis de datos, proyectos creativos y tecnología interactiva
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy estudiante de **Ciencias de la Computación** con interés en proyectos que mezclan creatividad, datos y tecnología. Me encanta aprender haciendo, ya sea construyendo interfaces interactivas con sensores o analizando datos en Python.
+
+Actualmente, estoy fortaleciendo mis habilidades en:
+
+- 🐍 **Python**
+- 🧠 **Análisis de Datos** (Pandas, NumPy, Power BI, Excel)
+- 💾 **SQL**
+- 🔌 **Proyectos DIY con Raspberry Pi**
+- 🖼️ **Visualización de Datos**
+- ☁️ Tecnologías web y herramientas no-code para prototipado
+
+Además, disfruto mucho combinar lo técnico con lo estético. Me gustan los retos donde puedo programar algo que también se vea y se sienta bien.
+
+---
+
+## 🧰 Tecnologías & Herramientas
+
+<img src="https://skillicons.dev/icons?i=python,raspberrypi,linux,git,github,vscode,figma,pandas,numpy,sql,html,css" />
+
+---
+
+## 🛠️ En lo que estoy trabajando
+
+- 🧪 **Proyecto de análisis de datos** usando Python, SQL, Excel y Power BI para mi portafolio como analista junior.
+- 🎮 **Experiencias interactivas** con cámara + OpenCV, donde las personas lanzan pelotas y se detectan los impactos en pantalla.
+- 💻 Preparación para entrevistas técnicas para roles de **desarrolladora Java Jr.** y analista de datos remoto.
+- 📦 Diseño y lanzamiento de un emprendimiento de **desayunos sorpresa con flores tejidas**, desde branding hasta gestión de pedidos.
+- ✏️ Desarrollo de cuadernillos visuales para secundaria bajo la marca **Cheatix**, con funciones matemáticas y diseño llamativo para KDP.
+- 🌱 Automatización de tareas y visualización de datos para eventos (como carreras o activaciones en agencias de autos).
+- 🎨 **Creación de filtros para Instagram y TikTok** usando Spark AR y Effect House, combinando diseño, programación y creatividad visual.
+- 🌐 Desarrollo de un portafolio web que combine mis proyectos creativos, técnicos y de emprendimiento.
+
+
+---
+## 📌 Proyectos destacados
+
+🧠 **Análisis de Datos con Python**  
+Exploración de datos públicos (ej. INEGI, Kaggle) usando Pandas y visualizaciones en Matplotlib y Seaborn.  
+[Ver repositorio](#)
+
+🎮 **Pantalla interactiva con OpenCV + cámara**  
+Sistema que detecta impactos en pantalla con una pelota real, usando visión por computadora y animaciones en pantalla.  
+[Ver repositorio](#)
+
+🚘 **Simulador de carreras F1 para showroom**  
+Interfaz conectada a un volante físico en activaciones para Hyundai. Configuración de software + hardware.  
+[Ver repositorio](#)
+
+✨ **Filtros para Instagram y TikTok**  
+Filtros de RA hechos con Spark AR y Effect House, con animaciones y lógica de interacción.  
+[Ver filtros](#)
+
+📊 **Dashboard de precios de productos en Power BI**  
+Tablero interactivo para visualizar precios por categoría, tienda y fecha.  
+[Ver demo](#)
+
+📚 **Cheatix: Cuadernillos visuales para secundaria**  
+Diseño y maquetación de material didáctico para funciones matemáticas. Publicado en Amazon KDP.  
+[Ver proyecto](#)
+
+🧵 **E-commerce artesanal con Wix**  
+Desarrollo de sitio y sistema de pedidos para negocio de desayunos sorpresa + flores tejidas.  
+[Ver sitio web](#)
+
+🎆 **Activaciones con tecnología interactiva**  
+Proyectos para marcas: cabinas de aire, simuladores, experiencias con sensores y pantallas personalizadas.  
+[Resumen de proyectos](#)
+
+
+
+
+---
+
+## ✨ Fun facts
+
+- 🐶 Tengo una perrita chihuahua que se llama **Mulán**
+- 🎵 Me encantan los conciertos (¡quiero ir a más de 10 este año!)
+- 🌱 Uno de mis objetivos es titularme este año y crear una colección de proyectos propios
+- 🇯🇵 Sueño con viajar a Japón (¡ya está en mis metas 2025!)
+
+---
+
+## 📫 Cómo contactarme
+
+- 📧 Email: ixvecab@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/ixchel-velázquez-5a34b1280
+- 📊 Portafolio de datos (en proceso)
+
+---
+
+## 💖 Gracias por visitar mi perfil
+
+Si te interesa colaborar, intercambiar ideas o simplemente saludar, ¡me encantaría conectar contigo!
+
+---
