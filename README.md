@@ -34,14 +34,15 @@ Además, disfruto mucho combinar lo técnico con lo estético. Me gustan los ret
 📊 Excel
 
 **Frameworks & Librerías**  
-<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=django,spring" />
 
-**Desarrollo web & CMS**  
-<img src="https://skillicons.dev/icons?i=html,css" />  
+**Desarrollo móvil & web**  
+<img src="https://skillicons.dev/icons?i=html,css,android" />  
 🌐 WordPress, Wix, GoDaddy 
 
 **Sistemas operativos & herramientas**  
 <img src="https://skillicons.dev/icons?i=raspberrypi,linux,git,github,vscode,figma" />
+
 
 
 
