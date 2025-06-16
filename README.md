@@ -95,6 +95,12 @@ Desarrollo de sitio y sistema de pedidos para negocio de desayunos sorpresa + fl
 Proyectos para marcas: cabinas de aire, simuladores, experiencias con sensores y pantallas personalizadas.  
 [Resumen de proyectos](#)-->
 
+## 📜 Certificados
+
+- [Certificado de R – UNAM](https://drive.google.com/file/d/1rTjj2Z_BKmRDK5EVzAxIOkBzePcCc-c-/view?usp=sharing)
+- [Constancia de C# (Grupo Codesi)](https://drive.google.com/file/d/1iJP_C7tKiq-DCmK6yjdsdW8u1-q0uFSP/view?usp=sharing)
+
+
 ### 🎧 Escuchando ahora en Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12179953908&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
