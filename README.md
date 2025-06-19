@@ -53,7 +53,7 @@ Además, disfruto mucho combinar lo técnico con lo estético. Me gustan los ret
 🎆 **Proyecto Disney: Intensamente - Furia (2024)**  
 Experiencia interactiva basada en sensores que medían "el nivel de furia" de un golpe, inspirada en la película *Intensamente*.  
 Desarrollado con **Raspberry Pi** y **Python** para una activación de marca.  
-[Ver resumen del proyecto](#)
+[Ver resumen del proyecto](#https://github.com/IxchelVe/insideout-furia/tree/main)
 
 🖼️ **Generador de numeración para rifa con Python**  
 Script que automatiza la creación de 10,000 imágenes con numeración sobre una base `.jpg`, para boletos masivos.
